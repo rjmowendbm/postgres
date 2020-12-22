@@ -1,0 +1,13 @@
+{
+  "operation": "Create",
+  "type": "regular",
+  "enabled": true,
+  "closed": false,
+  "scripts": [
+    {
+      "name": "select1.sql",
+      "tags": []
+    }
+  ],
+  "tags": []
+}
